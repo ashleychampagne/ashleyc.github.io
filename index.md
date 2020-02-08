@@ -1,3 +1,7 @@
+---
+# This file can be blank
+layout: home
+---
 Welcome to my site! 
 
 **something bold.**
