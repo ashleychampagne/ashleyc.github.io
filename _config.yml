@@ -1,21 +1,6 @@
 theme: jekyll-theme-midnight
-title: dogs
+title: Ashley Champagne
+bio: "This is my camping website."
+email: ashley_champagne@brown.edu
 
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Ashley Champagne
-  avatar: 
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
-  # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    scholar: #id
+
