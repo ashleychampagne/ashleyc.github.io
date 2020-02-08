@@ -6,4 +6,4 @@ permalink: /about/
 
 This is my bio.
 
-All about meeee.
+All about meee. 
