@@ -2,11 +2,10 @@
 # This file can be blank
 layout: home
 ---
-This is my site to show one way that you can create a GitHub pages site.
-
+Writer/Running/Frequently Camping
 **something bold.**
 
-[google](https://www.google.com)
+[camping sites in RI](https://www.visitrhodeisland.com/hotels-more/campgrounds/)
 
 ![camping](images/camping-photo.png)
 
