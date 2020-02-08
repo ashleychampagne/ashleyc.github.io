@@ -1,5 +1,13 @@
-theme: jekyll-theme-midnight
-title: Ashley Champagne
+# Site settings
+title: Awesome Site on GitHub Pages
+github_username: cdworkshops
+description: >
+  This is a practice site to demo GitHub Pages.
+ 
+url: "https://cdworkshops.github.io/cats"
 
+# Build settings
+markdown: kramdown
+theme: minima
 
 
