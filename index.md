@@ -2,7 +2,7 @@
 # This file can be blank
 layout: home
 ---
-Welcome to my site! 
+This is my site to show one way that you can create a GitHub pages site.
 
 **something bold.**
 
