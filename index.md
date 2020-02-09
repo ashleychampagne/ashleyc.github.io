@@ -6,6 +6,6 @@ layout: home
 
 [camping sites in RI](https://www.visitrhodeisland.com/hotels-more/campgrounds/)
 
-![camping](images/camping-photo.jpg)
+![camping](images/camping-photo.png)
 
 
