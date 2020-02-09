@@ -8,4 +8,4 @@ layout: home
 
 [link text itself]: http://www.reddit.com
 
-[https://www.visitrhodeisland.com/hotels-more/campgrounds/]
+[camping sites in RI](https://www.visitrhodeisland.com/hotels-more/campgrounds/)
