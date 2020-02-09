@@ -8,4 +8,4 @@ layout: home
 
 [link text itself]: http://www.reddit.com
 
-[I'm an inline-style link with title] (https://www.visitrhodeisland.com/hotels-more/campgrounds/ "camping sites in RI")
+[https://www.visitrhodeisland.com/hotels-more/campgrounds/]
