@@ -12,13 +12,13 @@ Director, Center for Digital Scholarship at Brown University Library
 
 ## Education
 
-`Ph.D., English Literature`
+`2018`
 __University of California, Santa Barbara__
-2018
+Ph.D. English Literature
 
 `2008`
 __University of California, Berkeley__
-2008
+B.A., English Literature
 
 ## Awards
 
