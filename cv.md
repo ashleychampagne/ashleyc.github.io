@@ -8,17 +8,17 @@ permalink: /CV/
 
 ## Currently
 
-Current Position Description
+Director, Center for Digital Scholarship at Brown University Library 
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`Ph.D., English Literature`
+__University of California, Santa Barbara__
+2018
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2008`
+__University of California, Berkeley__
+2008
 
 ## Awards
 
